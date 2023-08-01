@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NO_MASK</folder>
+	<filename>MASK.22bc0ad4-e373-11ed-8de7-086ac561526e.jpg</filename>
+	<path>C:\Users\Acer\Desktop\project\Tensorflow\workspace\images\newimages\NO_MASK\MASK.22bc0ad4-e373-11ed-8de7-086ac561526e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>326</ymin>
+			<xmax>468</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>
