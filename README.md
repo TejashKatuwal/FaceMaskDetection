@@ -29,3 +29,14 @@ Now download the protobuf that fits your version.
 
 now run the verification script. The script must say ok like shown in the figure for the program to work smoothly.
 ![training-4](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/e2e1b837-088a-4a25-b20d-0623d356173e)
+
+Now run all the codes one by one as shown in the picture.
+![training-5](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/62577d0d-5bd1-46c9-aa9f-3d995f8b5a81)
+![training-6](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/ca63515a-2a21-4327-b8fe-6211ceafa928)
+![training-7](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/e1a45542-4fe3-43a2-a53f-90b2e6f9f67f)
+![training-8](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/5ef3bcbb-ced3-45b1-97f0-a8cb4934c127)
+
+Now generate the training command and run it on cmd. Go to the project folder using cd project and run the generated command. This will take time to train if you don't have GPU with GPU it will be a little faster.
+![training-9](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/288db2e6-ec78-48f0-92cc-5603ed2723a4)
+Now run the evaluation script.
+![training-10](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/55f347f4-adf5-4973-a772-c1d5528c0fa0)
