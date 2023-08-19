@@ -43,7 +43,7 @@ Now run the evaluation script.
 
 # DETECTION
 Now run the following code to get your program ready for object detection.
-![Screenshot (46)](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/52dc9117-b7c5-479e-b956-bf274c8eeebb)
+![checkpoint generation](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/859b62b9-6106-4054-9dd8-84e4f2a8ccc7)
 
 Now import labels from the image path as shown in the code below.
 ![label loading](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/08da951c-395d-428b-8f6d-456a9ff76035)
