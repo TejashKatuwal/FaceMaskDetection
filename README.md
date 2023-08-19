@@ -40,3 +40,17 @@ Now generate the training command and run it on cmd. Go to the project folder us
 ![training-9](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/288db2e6-ec78-48f0-92cc-5603ed2723a4)
 Now run the evaluation script.
 ![training-10](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/55f347f4-adf5-4973-a772-c1d5528c0fa0)
+
+# DETECTION
+Now run the following code to get your program ready for object detection.
+![Screenshot (46)](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/52dc9117-b7c5-479e-b956-bf274c8eeebb)
+
+Now import labels from the image path as shown in the code below.
+![label loading](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/08da951c-395d-428b-8f6d-456a9ff76035)
+
+Now read image from the test file and perform the object detection by running the code below.
+![image reading](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/dc0f378b-6f2f-4cef-bc0b-9eef71bb544f)
+
+The following figure shows the output.
+
+![output](https://github.com/TejashKatuwal/FaceMaskDetection/assets/118622724/bea8eb6a-c4cb-450a-8231-016e5c70b541)
